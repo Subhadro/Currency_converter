@@ -32,5 +32,5 @@ This project reinforced best practices in React state management and API integra
 ## Screenshots
 
 ![App Screenshot](https://github.com/Subhadro/Currency_converter/blob/21045855f437a1a824c3c1754a272631401642c2/currency.jpeg)
-![App Screenshot]([https://mega.nz/file/0yZ0XT5J#JN6zZcg6sTj6UvtJ394qmn8rNZ-7eMPCrJ47Lx-J6Xo](https://github.com/Subhadro/Currency_converter/blob/7c043e25b145e3731979e02cd4f0b6b63c73ac64/currency1.png))
+![App Screenshot](https://github.com/Subhadro/Currency_converter/blob/7c043e25b145e3731979e02cd4f0b6b63c73ac64/currency1.png)
 
