@@ -32,5 +32,7 @@ This project reinforced best practices in React state management and API integra
 ## Screenshots
 
 ![App Screenshot](https://github.com/Subhadro/Currency_converter/blob/21045855f437a1a824c3c1754a272631401642c2/currency.jpeg)
+
+here you can select one of the currency to convert it to another currency
 ![App Screenshot](https://github.com/Subhadro/Currency_converter/blob/7c043e25b145e3731979e02cd4f0b6b63c73ac64/currency1.png)
 
